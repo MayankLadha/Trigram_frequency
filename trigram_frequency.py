@@ -1,3 +1,8 @@
+########################################
+# Written by: Mayank Ladha             #
+# email:      mayankladha27@gmail.com  #
+########################################
+
 import itertools
 from itertools import permutations
 import xlsxwriter
